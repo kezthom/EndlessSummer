@@ -73,6 +73,12 @@ ul {
     font-size: 30px;
     width: 150px;
   }
+
+a {
+  font-family: monospace;
+}
+
+
 /*
   .affiliated-partners {
 
