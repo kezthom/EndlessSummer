@@ -10,13 +10,13 @@
 
 .mission-statement{
     text-align: center;}
- 
+
  .field-exchange{
   border-color: aqua;
   border-style:solid;
   margin-right: 700px;
   height:200px;
- } 
+ }
  .our-work{
   border-color: aqua;
   border-style:solid;
@@ -24,7 +24,7 @@
   height:200px;
   padding-top: 30px;
 
- }  
+ }
 
 .nav-bar{
     display: flex;
@@ -41,11 +41,11 @@ ul {
     list-style: none;
     padding: 0;
   }
-  
+
   li {
     margin: 0 20px; /* Adjust the margin as needed for horizontal spacing */
   }
-  
+
   a {
     text-decoration: none;
     color: #333;
@@ -53,8 +53,8 @@ ul {
  footer{
   justify-content: center;
 
-     
-} 
+
+}
 
 .social{
     position:fixed;
@@ -63,18 +63,18 @@ ul {
     background-color:coral;
     justify-content:space-evenly;
     display:flex;
-  
+
 }
-.fa {  
-    padding: 20px;  
+.fa {
+    padding: 20px;
     justify-content: center;
-    text-align: center;  
-    margin: 5px 2px;  
-    font-size: 30px;  
-    width: 150px;  
-  }  
-  
+    text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 150px;
+  }
+/*
   .affiliated-partners {
 
     background-color: blueviolet;
-  }
+  } */
