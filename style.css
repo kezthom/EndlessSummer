@@ -9,13 +9,20 @@
  }
 
 .mission-statement{
-    text-align: center;}
+    text-align: center;
+  }
+
+  .mission{
+    font-size :23px;
+  }
+
  
  .field-exchange{
   border-color: aqua;
   border-style:solid;
   margin-right: 700px;
   height:200px;
+
  } 
  .nav-bar{
     display: flex;
